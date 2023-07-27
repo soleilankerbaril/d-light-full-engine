@@ -1,0 +1,3 @@
+[submodule "DLightFull/vendor/spdlog"]
+	path = DLightFull/vendor/spdlog
+	url = https://github.com/gabime/spdlog.git
